@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Jovany",
+      "id": 7
+    },
+    {
+      "name": "Blaze",
+      "id": 8
+    },
+    {
+      "name": "Robin",
+      "id": 11
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
